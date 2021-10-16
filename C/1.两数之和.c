@@ -1,3 +1,4 @@
+//实现了最简单的暴力算法，还需要学哈希表的用法
 /*
  * @lc app=leetcode.cn id=1 lang=c
  *
